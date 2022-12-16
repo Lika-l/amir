@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkamir"]=self["webpackChunkamir"]||[]).push([[918],{634:function(n,a,r){r.r(a),r.d(a,{default:function(){return f}});var c=r(252);const s={class:"mainblock"},t=(0,c._)("h1",{class:"catalog_h1"},"Где купить",-1),e=[t];function u(n,a){return(0,c.wg)(),(0,c.iD)("div",s,e)}var i=r(744);const l={},o=(0,i.Z)(l,[["render",u]]);var f=o}}]);
+//# sourceMappingURL=where.aa766865.js.map
